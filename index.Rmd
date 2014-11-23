@@ -28,7 +28,7 @@ first some numbers...
 ```{r}
 summary(Loblolly)
 ```
-![picture of Loblolly tree](./Loblolly.jpg)
+
 
 --- 
 
