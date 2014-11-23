@@ -40,7 +40,7 @@ summary(Loblolly)
 ##  Max.   :64.10   Max.   :25.0   311    : 6  
 ##                                 (Other):48
 ```
-![picture of Loblolly tree](./Loblolly.jpg)
+
 
 --- 
 
@@ -49,7 +49,7 @@ What is the height of each individual tree related to age?
 - Which line is the better fit?
 The linear line or the fitted one?
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png) 
+![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
 
 --- 
